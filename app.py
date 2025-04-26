@@ -1,4 +1,3 @@
-import sys
 import streamlit as st
 import re
 import nltk
@@ -18,9 +17,6 @@ from nltk.tokenize import word_tokenize
 import pandas as pd
 from spacy import displacy
 import plotly.express as px
-
-st.write("Python version:", sys.version)
-
 
 
 # Initialize NLP
