@@ -6,3 +6,4 @@ spacy
 PyPDF2
 pytesseract
 pdf2image
+scikit-learn
