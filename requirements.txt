@@ -5,3 +5,4 @@ wordcloud>=1.9.2
 spacy
 PyPDF2
 pytesseract
+pdf2image
